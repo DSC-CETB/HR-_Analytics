@@ -52,7 +52,7 @@ Follow these 3 step process for contributions:
 [Priyanka](https://github.com/Priyanka142806)
 
 
-## Dynamic Portfolio is a part of these Open Source programs
+## HR_Analytics is a part of these Open Source programs
 
 ![hacktober](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full2.aa1e9d9.svg)
 
